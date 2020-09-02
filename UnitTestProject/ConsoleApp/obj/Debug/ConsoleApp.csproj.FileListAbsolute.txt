@@ -1,0 +1,6 @@
+C:\Sampras\MSBuild\UnitTestProject\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Sampras\MSBuild\UnitTestProject\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Sampras\MSBuild\UnitTestProject\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Sampras\MSBuild\UnitTestProject\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Sampras\MSBuild\UnitTestProject\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Sampras\MSBuild\UnitTestProject\ConsoleApp\obj\Debug\ConsoleApp.pdb
